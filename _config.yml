@@ -1,4 +1,4 @@
-exclude : ['README.md']
+exclude : ['README.md', 'License.md']
 
 title : Energy Economics and Data Science
 author :

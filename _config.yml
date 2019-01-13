@@ -1,3 +1,5 @@
+exclude : ['README.md']
+
 title : Energy Economics and Data Science
 author :
   name : Nicholas Bowden
